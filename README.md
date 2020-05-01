@@ -2,7 +2,7 @@
 
 Multi Objective Linear Programming is constructed using Simplex Algorithm.
 
-Input:
+Input: <br/>
 C = [m X n] <br/>
 A = [r X n] <br/>
 x = [n X 1] <br/>
@@ -11,13 +11,13 @@ The input can given in the following format: <br/>
 Min Cx  &nbsp;   S.t. AX <= b <br/>
 
 The code runs for the following optimization:
-C: <sub>1</sub>
-min -x<sub>1</sub>-2x2;
-min -x<sub>1</sub>+2x3;
-min x<sub>1</sub>-x3 <br/>
+C: 
+min -x<sub>1</sub>-2x<sub>2</sub>;
+min -x<sub>1</sub>+2x<sub>3</sub>;
+min x<sub>1</sub>-x<sub>3</sub> <br/>
 
 s.t.
-x<sub>1</sub>+x2<=1 <br/>
-x<sub>1</sub><=4 <br/>
-x<sub>1</sub>-x2+x3<=4 <br/>
-x<sub>1</sub>,x2,x3>=0 <br/>
+x<sub>1</sub>+x<sub>2</sub><=1 <br/>
+x<sub>2</sub><=4 <br/>
+x<sub>1</sub>-x<sub>2</sub>+x<sub>3</sub><=4 <br/>
+x<sub>1</sub>,x<sub>2</sub>,x<sub>3</sub>>=0 <br/>
