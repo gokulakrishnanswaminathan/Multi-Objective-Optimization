@@ -1,6 +1,5 @@
 # Multi-Objective-Optimization
 
-Multi Objective Linear Programming is constructed from scratch using Simplex Algorithm.
 
 Input: <br/>
 C = [m X n] <br/>
