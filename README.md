@@ -7,9 +7,8 @@ C = [m X n] <br/>
 A = [r X n] <br/>
 x = [n X 1] <br/>
 
-The input can given in the following format:
-Min Cx  <br/>
-S.t. AX <= b <br/>
+The input can given in the following format: <br/>
+Min Cx   S.t. AX <= b <br/>
 
 The code runs for the following optimization:
 C:
