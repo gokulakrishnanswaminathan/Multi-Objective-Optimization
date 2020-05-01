@@ -10,7 +10,7 @@ x = [n X 1] <br/>
 The input can given in the following format: <br/>
 Min Cx  &nbsp;   S.t. AX <= b <br/>
 
-The code runs for the following optimization:
+The code runs for the following optimization: <br/>
 C: 
 min -x<sub>1</sub>-2x<sub>2</sub>;
 min -x<sub>1</sub>+2x<sub>3</sub>;
