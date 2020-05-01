@@ -1,0 +1,5 @@
+pandas
+numpy
+collections-extended
+ipython
+scipy
