@@ -3,7 +3,7 @@
 Multi Objective Linear Programming is constructed using Simplex Algorithm.
 
 Input:
-C = [m X n]
+C = [m X n] /n
 A = [r X n]
 x = [n X 1]
 
